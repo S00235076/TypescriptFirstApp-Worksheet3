@@ -26,6 +26,8 @@ benchmarks/graphs
 # npm
 node_modules
 
+node_modules
+
 # build folder
 
 build
